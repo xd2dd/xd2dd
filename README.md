@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Kriventsev</h1>
 <h3 align="center">Backend Developer from Russia 🇷🇺</h3>
 
-- 🔭 I’m currently working on [dnevniklib](https://github.com/xd2dd/dnevniklib)
+- 🔭 I’m currently working on [schoolmospy](https://github.com/xd2dd/schoolmospy)
 
-- 🌱 I’m currently learning **TON, TWA**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xd2dd](https://github.com/xd2dd)
 
